@@ -26,7 +26,7 @@ When you run the application, you will be prompted to log in as either an admin 
 If you log in as a user, you will be able to check room availability, view room categories, and make room bookings.
 
 Credits
-This application was developed by [Your Name Here]. If you have any questions or issues with the application, please contact me at [Your email address].
+This application was developed by ANANT AGRAWAL. If you have any questions or issues with the application, please contact me at anantagrawal280@hotmail.com.
 
 License
 This application is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
